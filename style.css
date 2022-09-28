@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#text{
+    margin-top: 10%;
+    margin-left: 3%;
+}
+
+
+@media(max-width: 577px) {
+    .display-4 {
+        font-size: 1rem;
+    }
+
+    
+
+    
+
+
+}
+
+
